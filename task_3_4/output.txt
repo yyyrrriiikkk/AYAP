@@ -1,0 +1,4 @@
+Players with scores above 63:
+a: 77 points
+b: 65 points
+d: 58 points

@@ -1,0 +1,1 @@
+My map has 3 of keys and has these pairs: [1] -> {ZARUBECKY YAROSLAV}, [6] -> {INF}, [10] -> {MAI}
